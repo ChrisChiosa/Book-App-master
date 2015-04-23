@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Bookr</string>
+    <string name="page_title">Front Page</string>
+    <string name="action_settings">Settings</string>
+
+<!-- Strings for activity_front_page -->
+    <string name="title_activity_sell_abook"> Sell A Book </string>
+    <string name="lookUpButton"> Look For Books </string>
+    <string name="sellButton"> Sell A Book </string>
+    <string name="listingButton"> Edit My Listings </string>
+    <string name="infoButton"> Edit My Personal Information </string>
+    <string name="exitButton"> Exit </string>
+    <string name="SUNY">For SUNY Oswego</string>
+
+
+
+
+
+
+<!-- Strings for activity_my_information -->
+    <string name="nameColon">Name: </string>
+    <string name="unimplementedEmail">(One day there will be an uneditable email address here)</string>
+    <string name="oswegoEmailColon">Oswego.edu Email: </string>
+    <string name="altEmailColon">Alternate Email: </string>
+    <string name="displayToBuyers">Display to Buyers</string>
+    <string name="phoneColon">Phone Number: </string>
+    <string name="save"> Save </string>
+    <string name="title_activity_my_information">My Information</string>
+
+<!-- Strings for activity_sell_a_book -->
+    <string-array name="conditions">
+        <item>Average</item>
+        <item>Good</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="autoFillWarn">(Autofill lookup may take a few seconds.)</string>
+    <string name="requiredExplanation">(* = Required Field)</string>
+    <string name="listMyBook"> List My Book </string>
+    <string name="askingPriceColon">Asking Price: </string>
+    <string name="qualityColon">*Quality: </string>
+    <string name="authorColon">*Author: </string>
+    <string name="titleColon">*Title: </string>
+    <string name="autoFill"> Auto Fill </string>
+    <string name="ISBNColon">ISBN: </string>
+
+
+<!-- Strings for activity_book_search -->
+    <string-array name="searchTypes">
+        <item>Title</item>
+        <item>ISBN</item>
+        <item>Author</item>
+    </string-array>
+    <string name="title_activity_book_search">Book Search</string>
+    <string name="search"> Search </string>
+    <string name="searchBy">Search By: </string>
+    <string name="searchColon">Search: </string>
+
+<!-- Strings for my listings -->
+    <string name="title_activity_my_listings">My Listings</string>
+    <string name="temp">Users can choose to edit or remove their listed books, which will be shown above.</string>
+    <string name="saveAndReturn"> Save and Return </string>
+    <string name="title_activity_search_results">SearchResults</string>
+    <string name="hello_world">Hello world!</string>
+    
+</resources>
